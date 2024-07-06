@@ -10,17 +10,6 @@ This repository contains detailed data and analysis on the impact of vote splitt
 ## Important Disclaimer: 
 THERE IS NO GUARANTEE ON THE ACCURACY OF DATA - THIS IS A QUICK AND DIRTY ANALYSIS BASED ON PUBLICALLY AVAILABLE DATA AND LATE NIGHT SCRIPTING.
 
-
-## Repository Structure
-
-### Files and Directories
-- `constituencies 2.json`: Contains detailed information about each constituency including names, IDs, URLs, nations, and party details.
-- `scorecards.json`: Contains the election results for each constituency, detailing the votes received by each candidate.
-- `constituencies_with_scorecards.json`: A merged file combining data from `constituencies 2.json` and `scorecards.json`, providing a comprehensive view of each constituency's details and election results.
-- `detailed_merged_win_constituencies.json`: A file showing the constituencies where the combined votes of Reform UK and Conservative would have changed the election outcome.
-- `filtered_detailed_merged_win_constituencies.json`: An updated file excluding constituencies where Conservatives or Reform UK were the original winners, showing the impact of combined votes on other parties.
-- `README.md`: This file, providing an overview and detailed description of the repository.
-
 ## Data Description
 
 ### constituencies_with_scorecards.json
