@@ -7,6 +7,10 @@ Certainly! Here is a detailed README file for your repository:
 ## Overview
 This repository contains detailed data and analysis on the impact of vote splitting between the Conservative and Reform UK parties in the 2024 UK General Election. The primary focus is to demonstrate how the split votes affected the overall election results, potentially changing the number of seats won by each party.
 
+## Important Disclaimer: 
+THERE IS NO GUARANTEE ON THE ACCURACY OF DATA - THIS IS A QUICK AND DIRTY ANALYSIS BASED ON PUBLICALLY AVAILABLE DATA AND LATE NIGHT SCRIPTING.
+
+
 ## Repository Structure
 
 ### Files and Directories
